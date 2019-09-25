@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{63444B23-BA8E-A43E-B38B-E512469F5B4D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LS_RaceManager.cs">
+    <Files>
+      <File FileName="Assets/Photon Unity Networking/Editor/PhotonNetwork/AccountService.cs" Line="195" Column="1" />
+      <File FileName="Assets/Spaceflight Controls/Scripts/PlayerFlightControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LS_ShipManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestroyByContact.cs" Line="8" Column="5" />
+      <File FileName="Assets/Scripts/LS_LocalGameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LS_PlayerController.cs" Line="49" Column="1" />
+      <File FileName="Assets/Scripts/LS_NetworkedPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Spaceflight Controls/Scripts/bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gyroscope.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LS_Garage_Manager.cs" Line="97" Column="65" />
+      <File FileName="Assets/Scripts/LS_Garage_ComponentOptions.cs" Line="1" Column="3" />
+      <File FileName="Assets/Scripts/LS_Bounds.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs" Line="1" Column="1" />
+      <File FileName="Assets/Spaceflight Controls/Editor/FlightSysEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneAiControl.cs" Line="48" Column="34" />
+      <File FileName="Assets/Standard Assets/Vehicles/Aircraft/Scripts/AeroplaneController.cs" Line="74" Column="19" />
+      <File FileName="Assets/simpleAI.cs" Line="21" Column="5" />
+      <File FileName="Assets/Scripts/LS_RaceManager.cs" Line="18" Column="42" />
+      <File FileName="Assets/render.cs" Line="6" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lightspeed PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
